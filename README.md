@@ -8,5 +8,5 @@ srtfixer subtitle.srt; cat subtitle_fixed.srt
 
 ## Install
 ```shell
-go get github.com/sijad/strfixer
+go get github.com/sijad/srtfixer
 ```
